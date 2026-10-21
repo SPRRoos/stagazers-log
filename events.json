@@ -1,0 +1,32 @@
+{
+  "repositories": [
+    {
+      "name": "vite",
+      "description": "A fast frontend build tool with a focus on a lean development experience.",
+      "url": "https://github.com/vitejs/vite",
+      "language": "TypeScript",
+      "starredAt": "2026-10-18"
+    },
+    {
+      "name": "playwright",
+      "description": "Browser automation for reliable end-to-end testing.",
+      "url": "https://github.com/microsoft/playwright",
+      "language": "TypeScript",
+      "starredAt": "2026-10-12"
+    },
+    {
+      "name": "ruff",
+      "description": "An extremely fast Python linter and code formatter.",
+      "url": "https://github.com/astral-sh/ruff",
+      "language": "Python",
+      "starredAt": "2026-10-04"
+    },
+    {
+      "name": "ripgrep",
+      "description": "A line-oriented search tool that recursively searches the current directory.",
+      "url": "https://github.com/BurntSushi/ripgrep",
+      "language": "Rust",
+      "starredAt": "2026-09-27"
+    }
+  ]
+}
